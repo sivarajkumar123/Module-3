@@ -27,5 +27,6 @@ To write a Python function that accepts a number **N** and creates a list contai
 ```
 
 ### OUTPUT
-
+![image](https://github.com/user-attachments/assets/8276d991-52ad-4680-8691-7d850ef69bc4)
 ### RESULT
+Thus a Python function that accepts a number N and creates a list containing all even numbers up to N has been implemented and executed.**
