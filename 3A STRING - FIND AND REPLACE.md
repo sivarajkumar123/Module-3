@@ -26,5 +26,6 @@ To write a Python function to accept a string, identify a word to be replaced, a
 ```
 
 ### OUTPUT
-
+![image](https://github.com/user-attachments/assets/5ec1e4eb-ebbf-4b7e-ba81-edbd53aaacd8)
 ### RESULT
+Thus the Python program to compute the power of a number using the built-in pow() function was executed successfully and the output was verified.
