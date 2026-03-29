@@ -25,5 +25,6 @@ To write a Python program that matches a string containing an `'a'` followed by 
 ```
 ```
 ### OUTPUT
-
+![image](https://github.com/user-attachments/assets/ceddd925-08d6-4f84-9a88-0a29a6fa825d)
 ### RESULT
+Thus a Python program that matches a string containing an 'a' followed by two to three 'b' characters using regular expressions has been implemented and executed.
